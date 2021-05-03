@@ -1,0 +1,41 @@
+/* Enter your custom styles here */
+
+
+/*General styling*/
+
+.wrapper {
+    margin: auto;
+    max-width: 1200px;
+}
+
+
+/* HomePage styling*/
+
+.mainPage {
+    background: #ffffff;
+}
+
+.flexBoxHeader {
+    background: #ffffff;
+    justify-content: center;
+    margin: 12px;
+}
+
+.headerText {
+    text-align: center;
+    font-size: large;
+}
+
+.flexBoxList {
+    justify-content: center;
+}
+
+.list {
+    background: #f7f7f7;
+    flex: 1;
+    margin: 12px;
+}
+
+.listItem{
+    flex-direction: column;
+}
